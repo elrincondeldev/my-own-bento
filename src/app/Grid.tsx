@@ -7,16 +7,16 @@ const instagramFiles = [
     image: "/instagram1.png",
   },
   {
-    image: "/Instagram2.png",
+    image: "/instagram2.png",
   },
   {
-    image: "/Instagram3.png",
+    image: "/instagram3.png",
   },
   {
-    image: "/Instagram4.png",
+    image: "/instagram4.png",
   },
   {
-    image: "/Instagram5.png",
+    image: "/instagram5.png",
   },
 ];
 

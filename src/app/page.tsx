@@ -27,18 +27,22 @@ export default function Home() {
         </section>
         <PromoGrid>
           <PromoCard
-            name="Sitio para tu marca"
+            name="The Game Is HackathON"
             className="col-span-3 lg:col-span-2"
             background={
               <section className="absolute inset-0 flex items-center justify-center">
-                <p className="font-bold text-3xl">Aquí puede estar tu marca</p>
+                <img
+                  src="/thegameishackathon.png"
+                  alt="The Game Is HackathON"
+                  className="w-full h-full object-cover"
+                />
               </section>
             }
-            Icon="/question_mark.png"
-            description="Aquí puede estar tu marca"
-            href="/"
+            Icon="/nuwe_logo.png"
+            description="CaixaBank Tech"
+            href="https://bit.ly/3TsH6mZ"
             cta="Más información"
-          ></PromoCard>
+          />
           <PromoCard
             name="Mi GitHub"
             className="lg:hidden col-span-3 lg:col-span-3"
