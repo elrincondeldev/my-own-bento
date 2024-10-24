@@ -27,20 +27,20 @@ export default function Home() {
         </section>
         <PromoGrid>
           <PromoCard
-            name="The Game Is HackathON"
+            name="Plataforma para aprender inglés"
             className="col-span-3 lg:col-span-2"
             background={
               <section className="absolute inset-0 flex items-center justify-center">
                 <img
-                  src="/thegameishackathon.png"
-                  alt="The Game Is HackathON"
+                  src="/immigo.png"
+                  alt="Plataforma para aprender inglés"
                   className="w-full h-full object-cover"
                 />
               </section>
             }
-            Icon="/nuwe_logo.png"
-            description="CaixaBank Tech"
-            href="https://bit.ly/3TsH6mZ"
+            Icon="/immigo_logo.png"
+            description="Immigo"
+            href="https://dev.immigo.io/?via=elrincondeldev"
             cta="Más información"
           />
           <PromoCard

@@ -1000,9 +1000,6 @@ video {
 .stroke-2 {
   stroke-width: 2;
 }
-.object-contain {
-  object-fit: contain;
-}
 .object-cover {
   object-fit: cover;
 }
@@ -1055,10 +1052,6 @@ video {
 }
 .text-center {
   text-align: center;
-}
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
 }
 .text-4xl {
   font-size: 2.25rem;
